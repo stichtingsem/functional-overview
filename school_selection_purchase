@@ -1,6 +1,6 @@
 Use-Case: School selection & purchase
 1	Brief Description
-<brief description of use-case>
+Whenever a school purchases materials in the Marketplace, the Marketplace informs the other systems through a purchase update that includes Order information.
 2	Actor Brief Descriptions
 2.1	<Actor 1 Name>
 3	Preconditions

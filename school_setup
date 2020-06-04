@@ -1,6 +1,6 @@
 Use-Case: School setup
 1	Brief Description
-<brief description of use-case>
+This is a process that occurs only when a school changes a Marketplace, LMS or SIS. Each system will get a request to grant access to it’s API’s, that will allow trusted data exchanges. In this example, a new LMS first requests access to the SIS, so that the LMS can be connected to a school. With that identifier, the LMS can connect to the Marketplace, so that it is setup to deliver new orders.
 2	Actor Brief Descriptions
 2.1	<Actor 1 Name>
 3	Preconditions

@@ -1,6 +1,6 @@
 Use-Case: Usage
 1	Brief Description
-<brief description of use-case>
+Whenever a user engages with the LP, the LP informs the LMS and the Marketplace on usage. This can also be used to check with the Marketplace if there is a valid license for the user or school. The user results are send back to the LMS.
 2	Actor Brief Descriptions
 2.1	<Actor 1 Name>
 3	Preconditions

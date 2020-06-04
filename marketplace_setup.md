@@ -14,13 +14,13 @@ This is a process that occurs only once, when a Learning Platform provider estab
 
 4	Basic Flow of Events
 
-    1.	The use case begins when administrator, initiates the setup from the marketplace.
+   1.	The use case begins when administrator, initiates the setup from the marketplace.
     
-    2.	The administrator selects the Learning Platform to establish a connection with
+   2.	The administrator selects the Learning Platform to establish a connection with
     
-    3.	The adminsitrator sets up an API credential exchange
+   3.	The adminsitrator sets up an API credential exchange
     
-    4.	The marketplace sends: 
+   4.	The marketplace sends: 
     
         System metadata
         
@@ -28,12 +28,12 @@ This is a process that occurs only once, when a Learning Platform provider estab
         
         Requests [Catalogue]
     
-    5.	The learning platform responds:
+   5.	The learning platform responds:
     
         [Catalogue] 
         Commercial metadata
     
-    7.	The use case ends.
+   7.	The use case ends.
     
 5	Post-conditions
 

@@ -1,6 +1,9 @@
-Use-Case: Additional purchasing
-1	Brief Description
+# Use-Case: Additional purchasing
+
+## Brief Description
+
 Whenever a school purchases materials in the Marketplace, the Marketplace informs the other systems through a purchase update that includes Order information.
+
 2	Actor Brief Descriptions
 2.1	<Actor 1 Name>
 3	Preconditions

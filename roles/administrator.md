@@ -11,10 +11,6 @@ An individual who is responsible for the maintenance of data stored within a SIS
   - [Content Provider](../services/content-provider.md)
   - [Identity Provider](../services/identity-provider.md)
 
-## Processes Related
-
-  -
-
 ## Use Cases Related
 
-  -
+  - [S.1.0 Learning Application establishes relationship with Sales Agent](../use-cases/s.1.0-learning-application-sales-agent.md)

@@ -1,4 +1,3 @@
-Administrator connects Learning Application, SIS and LMS
 # S.3.0 Administrator connects Learning Application, SIS and LMS
 
 Establish the connections between the [SIS](../services/school-information-system.md), the [Marketplace](../services/marketplace.md) and the [LMS](../services/learning-management-system.md) used within a school (done only when these systems change or new services are added).  Note this is three separate processes grouped together below for simplicity.

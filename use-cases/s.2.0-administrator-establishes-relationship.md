@@ -49,7 +49,7 @@ Establish the connections between the [SIS](../services/school-information-syste
 17. 	Approve access re	quest to [SIS](../services/school-information-system.md) data
 - API Token
 19. [LMS](../services/learning-management-system.md) can retrieve data from [SIS](../services/school-information-system.md)
-20. 		Synchronize data from [SIS](../services/school-information-system.md) to [LMS](../services/learning-management-system.md)
+20. 		Synchronize data from [SIS](../services/school-information-system.md) to [LMS](../services/learning-management-system.md) 
 - Groups
 - Streams
 - Subjects

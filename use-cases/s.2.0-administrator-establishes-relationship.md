@@ -37,11 +37,11 @@ Establish the connections between the [SIS](../services/school-information-syste
 - API Token Request
 13. [LMS](../services/learning-management-system.md) allows an [Administrator](../roles/administrator.md) to approve a request for API access.
 - API Token Request
-14. Approve access re	quest to LMS
+14. Approve access re	quest to [LMS](../services/learning-management-system.md) 
 15. The [LMS](../services/learning-management-system.md) responds:
 - API Token
 13. [LMS](../services/learning-management-system.md) allows an [Administrator](../roles/administrator.md) to create a connection to a [SIS](../services/school-information-system.md).
-14. 			Request access from LMS to [SIS](../services/school-information-system.md)
+14. 			Request access from [LMS](../services/learning-management-system.md) to [SIS](../services/school-information-system.md)
 15. 			The [LMS](../services/learning-management-system.md) sends:
 - API Token Request
 16. [SIS](../services/school-information-system.md) allows an [Administrator](../roles/administrator.md) to approve a request for API access.

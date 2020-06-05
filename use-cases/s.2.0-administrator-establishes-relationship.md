@@ -32,7 +32,7 @@ Establish the connections between the [SIS](../services/school-information-syste
 - Streams
 - Subjects
 10. [Marketplace](../services/marketplace.md) allows a [Sales agent](../roles/sales-agent.md) to create a connection to a schools [LMS](../services/learning-management-system.md)
-11. 	Request access from [Marketplace](../services/marketplace.md) to [LMS](../services/learning-management-system.md)
+11. 	Request access from [Marketplace](../services/marketplace.md) to [LMS](../services/learning-management-system.md) 
 12. The [Marketplace](../services/marketplace.md) sends: 
 - API Token Request
 13. [LMS](../services/learning-management-system.md) allows an [Administrator](../roles/administrator.md) to approve a request for API access.

@@ -4,8 +4,8 @@ This is a process that occurs only once, when a Learning Platform provider estab
 
 ## Actors
 
-    Administrator of Marketplace
-    Administrator of Learning Platform
+  - Administrator of Marketplace
+  - Administrator of Learning Platform
 
 ## Preconditions
 

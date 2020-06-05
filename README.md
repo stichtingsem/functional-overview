@@ -19,6 +19,7 @@ The initial intent is to guide the prototype / validation stage of the process, 
  [Services](/services)  |  Description of the services that can be provided by any or all participants.
  [Roles](/roles)     |  Description of roles that exist to perform actions in and across the [services](/services).
  [Use Cases](/use-cases) |  Description of high level processes, and then smaller steps within a process to allow for functional and technical design, testing and validation.
+ [Entities](/entities) |  Overview of data entities exchanged as part of the use cases.
 
 ## Process for making changes
 

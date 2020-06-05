@@ -17,9 +17,9 @@ This is a process that occurs only once, when a Learning Platform provider estab
    2.	The administrator creates an entry for the the Learning Platform
    3.	The administrator adds API credentials provided by the Learning Platform
    4.	The [Marketplace](../services/marketplace.md) sends:
-     4.1. XXX
+     1. Catalogue Request
    5.	The learning platform responds:
-     5.1. YYY
+     1. Catalogue Response
    7.	The use case ends.
 
 ## Post-conditions

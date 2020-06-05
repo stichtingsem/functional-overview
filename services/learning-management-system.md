@@ -13,3 +13,4 @@ A service that allows users to schedule and manage the learning material that is
 ## Use Cases Related
 
   - [S.2.0 Administrator establishes relationship between SIS, LMS and Marketplace](../use-cases/s.2.0-administrator-establishes-relationship.md)
+  - [S.3.0 Administrator connects Learning Application, SIS and LMS](../use-cases/s.3.0-administrator-connects.md)

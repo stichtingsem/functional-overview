@@ -13,3 +13,5 @@ A service that allows buyers to order, and then have delivered, learning materia
 ## Use Cases Related
 
   - [S.1.0 Learning Application establishes relationship with Sales Agent](../use-cases/s.1.0-learning-application-sales-agent.md)
+  - [S.2.0 Administrator establishes relationship between SIS, LMS and Marketplace](../use-cases/s.2.0-administrator-establishes-relationship.md)
+ 

@@ -10,4 +10,4 @@ A service that allows for the delivery of a specific learning activity in a digi
 
 ## Use Cases Related
 
-TODO: Link to use cases
+ - [S.3.0 Administrator connects Learning Application, SIS and LMS](../use-cases/s.3.0-administrator-connects.md) 

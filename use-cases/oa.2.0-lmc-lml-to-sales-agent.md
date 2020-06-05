@@ -18,7 +18,7 @@ Submission of the [LML](../glossary.md) as a selection of material that can be u
 ## Basic Flow of Events
 
 1. The [LMC](../roles/lmc.md) submits the [LML](../glossary.md) as a selection for the school to the [sales agent](../roles/sales-agent.md) via the [Marketplace](../services/marketplace.md)
-2. The [sales agent](../roles/sales-agent.md) can take the submitted [LML](../glossary.md) and create orders for each student (based on [SIS](../services/sis.md) data), this enables confirmation of delivery and selection of optional material.  This is based on which groups the student is a member of in the [SIS](../services/sis.md) and should require no administration.
+2. The [sales agent](../roles/sales-agent.md) can take the submitted [LML](../glossary.md) and create orders for each student (based on [SIS](../services/sis.md) data), this enables confirmation of delivery and selection of optional material.  This is based on which groups the student is a member of in the [SIS](../services/school-information-system.md) and should require no administration.
 3. [Student or Parent](../roles/buyer.md) can receive notification via email, app or other mechanism.
 4. Marketplace allows [Student or Parent](../roles/buyer.md) to login and confirm their order.
 5. Marketplace can update the [LML](../glossary.md) for the specific [student](../roles/buyer.md) and pass the information on to fulfilment agents.

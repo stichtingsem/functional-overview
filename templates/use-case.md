@@ -2,10 +2,10 @@
 
 Use case description
 
-## Actors
+## Roles Involved
 
   - List of actors [links]
-  
+
 ## Preconditions
 
   - List of pre-conditions
@@ -14,7 +14,7 @@ Use case description
 
    1. Ordered list of events.
    2.	The use case ends.
-    
+
 ## Post-conditions
 
   - List of post-conditions

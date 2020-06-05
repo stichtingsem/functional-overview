@@ -7,6 +7,8 @@ Submission of the [LML](../glossary.md) as a selection of material that can be u
 ## Roles Involved
 
   - [LMC](../roles/lmc.md)
+  - [Student](../roles/buyer.md)
+  - [Parent](../roles/buyer.md)
   - [Sales Agent](../roles/sales-agent.md)
 
 ## Preconditions

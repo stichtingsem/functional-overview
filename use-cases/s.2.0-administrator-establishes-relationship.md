@@ -12,7 +12,7 @@ Establish the connections between the LAS, the Marketplace and the LMS used with
 
   - A commercial agreement is in place between the learning application and the [Marketplace](../services/marketplace.md) owner
 
-## Basic Flow of Events
+## Basic Flow of Events - new SIS
 
  1. The use case begins when administrator, initiates the setup from within the [Marketplace](../services/marketplace.md) to add a new learning platform
  2.	The administrator creates an entry for the the Learning Platform

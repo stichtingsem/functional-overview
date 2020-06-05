@@ -13,14 +13,14 @@ This is a process that occurs only once, when a Learning Platform provider estab
 
 ## Basic Flow of Events
 
-   1. The use case begins when administrator, initiates the setup from within the [Marketplace](../services/marketplace.md) to add a new learning platform
-   2.	The administrator creates an entry for the the Learning Platform
-   3.	The administrator adds API credentials provided by the Learning Platform
-   4.	The [Marketplace](../services/marketplace.md) sends:
-     1. Catalogue Request
-   5.	The learning platform responds:
-     1. Catalogue Response
-   7.	The use case ends.
+ 1. The use case begins when administrator, initiates the setup from within the [Marketplace](../services/marketplace.md) to add a new learning platform
+ 2.	The administrator creates an entry for the the Learning Platform
+ 3.	The administrator adds API credentials provided by the Learning Platform
+ 4.	The [Marketplace](../services/marketplace.md) sends:
+    - Catalogue Request
+ 5.	The learning platform responds:
+    - Catalogue Response
+ 6.	The use case ends.
 
 ## Post-conditions
 

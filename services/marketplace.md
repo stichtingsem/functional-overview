@@ -5,3 +5,7 @@ A service that allows buyers to order, and then have delivered, learning materia
 ## Roles Related
 
   - [Administrator](../roles/administrator.md)
+
+## Use Cases Related
+
+  - [S.1.0 Learning Application establishes relationship with Sales Agent](../use-cases/s.1.0-learning-application-sales-agent.md)

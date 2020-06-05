@@ -24,7 +24,7 @@ The process by which the [LMC](../roles/lmc.md) determines the material availabl
      - Courses
      - Streams
   - Outputs:
-    - Learning materials list
+    - Learning Materials List (LML)
 3. When complete the Marketplace allows the LMC to finalise the LML.  Note that the LML is not at student level at this stage, but attached to groups.  The students will be able to confirm their individual selection in a later stage.
 4.	The use case ends.
 

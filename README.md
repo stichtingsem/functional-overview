@@ -12,6 +12,8 @@ This repository is split into the documents that provide a functional overview f
 
 The initial intent is to guide the prototype / validation stage of the process, and keep the work streams aligned through the summer of 2020.  This repository may evolve into the basis for the standards related to the services and APIs.
 
+We are using Github to ensure that all work and discussions are held completely in the open, and that the source code for any example services or data exchanges are held and versioned alongside any of the functional documentation.
+
 ## Scope of Pilot
 
 The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (ordering and access), the other use cases will be explored in further phases.
@@ -24,6 +26,7 @@ The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (
  [Roles](/roles)     |  Description of roles that exist to perform actions in and across the [services](/services).
  [Use Cases](/use-cases) |  Description of high level processes, and then smaller steps within a process to allow for functional and technical design, testing and validation.
  [Entities](/entities) |  Overview of data entities exchanged as part of the use cases.
+[Glossary](glossary.md) |  Definition of key terms.
 
 ## Process for making changes
 
@@ -31,7 +34,9 @@ The working practices of this group will follow typical processes of technology 
 
 - All documentation (where possible) will be in plain text files in a repository like this one.  This makes it accessible for all and easy to version control and track changes over time.
 - To make changes, please take a local copy of the files, make the changes, and submit them back as a [pull request](https://lab.github.com/githubtraining/reviewing-pull-requests).  This ensures that discussion can occur in the open on any change before it is agreed, and we maintain a clear and transparent history once the process begins.
-- Pull requests will be reviewed by an agreed group of reviewers / process (TBD).
+- You can make small changes using the web editor, but you still need to submit your changes via a pull request.
+- Pull requests will be reviewed by an agreed group of reviewers for each stream (TBD).
+-
 
 ## Working with Markdown & Github
 

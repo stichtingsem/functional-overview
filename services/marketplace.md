@@ -5,6 +5,10 @@ A service that allows buyers to order, and then have delivered, learning materia
 ## Roles Related
 
   - [Administrator](../roles/administrator.md)
+  - [Buyer](../roles/buyer.md)
+  - [Sales Agent](../roles/sales-agent.md)
+  - [LMC](../roles/lmc.md)
+  - [Fulfilment Agent](../roles/fulfilment-agent.md)
 
 ## Use Cases Related
 

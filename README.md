@@ -1,10 +1,14 @@
-# Use Case Repository
+# Functional Overview
 
-This repository will be the home for all of the use cases that will be explored and validated as part of the pilot phase for the new 'Chain to Ecosystem' pilot during 2020.
+This repository will be the home for all of the functional defintions and use cases that will be explored and validated as part of the pilot phase for the new 'Chain to Ecosystem' pilot during 2020.
+
+The initial document that outlined the approach can still be found here:
+
+[SEM - Moving from a Chain to an Ecosystem](https://docs.google.com/document/d/1XYgmzbuznDTwYlue_45Id4LZZA8Zz5cvYL7h1QnIQLk/edit?usp=sharing)
 
 ## Rationale
 
-This repository is split into the documents that provide a functional overview for how the ecosystem works, with definitions of the high level services, actors, data entities and use cases.s
+This repository is split into the documents that provide a functional overview for how the ecosystem works, with definitions of the high level services, actors, data entities and use cases.
 
 The initial intent is to guide the prototype / validation stage of the process, and keep the work streams aligned through the summer of 2020.  This repository may evolve into the basis for the standards related to the services and APIs.
 
@@ -13,9 +17,8 @@ The initial intent is to guide the prototype / validation stage of the process, 
  Documents | description
 -----------|---
  [Services](/services)  |  Description of the services that can be provided by any or all participants.
- [Roles](/roles)     |  Description of roles that exist to perform actions in and across the services.
- [Processes](/processes) |  High level functional areas that are used to break down the key exchanges of data across services in the ecosystem.
- [Use Cases](/use-cases) |  Description of a smaller step within a process to allow for functional and technical design, testing and validation.
+ [Roles](/roles)     |  Description of roles that exist to perform actions in and across the [services](/services).
+ [Use Cases](/use-cases) |  Description of high level processes, and then smaller steps within a process to allow for functional and technical design, testing and validation.
 
 ## Process for making changes
 
@@ -23,6 +26,7 @@ The working practices of this group will follow typical processes of technology 
 
 - All documentation (where possible) will be in plain text files in a repository like this one.  This makes it accessible for all and easy to version control and track changes over time.
 - To make changes, please take a local copy of the files, make the changes, and submit them back as a [pull request](https://lab.github.com/githubtraining/reviewing-pull-requests).  This ensures that discussion can occur in the open on any change before it is agreed, and we maintain a clear and transparent history once the process begins.
+- Pull requests will be reviewed by an agreed group of reviewers / process (TBD).
 
 ## Working with Markdown & Github
 

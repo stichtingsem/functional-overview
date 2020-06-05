@@ -12,6 +12,10 @@ This repository is split into the documents that provide a functional overview f
 
 The initial intent is to guide the prototype / validation stage of the process, and keep the work streams aligned through the summer of 2020.  This repository may evolve into the basis for the standards related to the services and APIs.
 
+## Scope of Pilot
+
+The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (ordering and access), the other use cases will be explored in further phases.
+
 ## Structure
 
  Documents | description

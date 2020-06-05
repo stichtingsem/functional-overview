@@ -1,40 +1,27 @@
-# Use-Case: Marketplace Setup
-
-1	Brief Description
+# Marketplace Setup
 
 This is a process that occurs only once, when a Learning Platform provider establishes a commercial relationship with a Marketplace. The Marketplace will identify itself and request catalogue information from the Learning Platform, with the Catlaogue response products can be sold through the Marketplace.
 
-2.	Actor Brief Descriptions
+## Actors
 
-    2.1	Administrator/owner of Marketplace
+    Administrator of Marketplace
+    Administrator of Learning Platform
 
-3.	Preconditions
+## Preconditions
 
-    3.1 A commercial agreement is in place with the marketplace owner (distributor)
+  - A commercial agreement is in place with the marketplace owner (distributor)
 
-4	Basic Flow of Events
+## Basic Flow of Events
 
-   1.	The use case begins when administrator, initiates the setup from the marketplace.
-    
+   1. The use case begins when administrator, initiates the setup from the marketplace to add a new learning platform
    2.	The administrator selects the Learning Platform to establish a connection with
-    
-   3.	The adminsitrator sets up an API credential exchange
-    
+   3.	The adminsitrator adds API credentials provided by the Learning Platform
    4.	The marketplace sends: 
-    
-        System metadata
-        
-        Commercial metadata
-        
-        Requests [Catalogue]
-    
+     4.1. XXX
    5.	The learning platform responds:
-    
-        [Catalogue] 
-        Commercial metadata
-    
+     5.1. YYY
    7.	The use case ends.
     
-5	Post-conditions
+## Post-conditions
 
-5.1	Learning Platforms catalogue products are available in Marketplace for sale
+  - Learning Platforms catalogue products are available in Marketplace for sale

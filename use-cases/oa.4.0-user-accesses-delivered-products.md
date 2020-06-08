@@ -1,6 +1,6 @@
 # OA.4.0 User accesses delivered products
 
-The setup for access is now all complete, the user (student or teacher) will be able to click on a link within their LMS to access a provisioned learning application.
+The setup for access is now all complete, the [User](../roles/user.md) (student or teacher) will be able to click on a link within their [LMS](../services/learning-management-system.md) to access a provisioned [learning application](../services/learning-application.md).
 
 ![Process Diagram](../diagrams/process-diagrams-OA.4.0.svg)
 

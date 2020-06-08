@@ -7,6 +7,9 @@ The setup for access is now all complete, the [User](../roles/user.md) (student 
 ## Roles Involved
 
   - [User](../roles/user.md)
+  - [LMS Provider](../roles/lms-provider.md)
+  - [Learning Application Provider](../roles/learning-application-provider.md)
+  - [Sales Agent](../roles/sales-agent.md)
 
 ## Preconditions
 

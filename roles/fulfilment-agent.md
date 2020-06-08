@@ -18,4 +18,5 @@ An organisation that takes responsibility for the fulfilment of Learning Materia
 
 ## Use Cases Related
 
- - [OA.3.0 Sales Agent delivers purchased products](../user-cases/oa.3.0-sales-agent-delivers-products.md)
+- [OA.3.0 Sales Agent delivers purchased products](../user-cases/oa.3.0-sales-agent-delivers-products.md)
+- [OA.5.0 Buyer purchases additional products during school year](../use-cases/oa.5.0-buyer-purchases-additional-products.md)

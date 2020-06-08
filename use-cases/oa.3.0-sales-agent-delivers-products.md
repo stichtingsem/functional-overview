@@ -13,8 +13,9 @@ The sales agent delivers the products purchased through physical delivery, or in
 
 ## Preconditions
 
-  - A LML has been completed by the LML, and students may have selected specific material.
-  - Updates and changes are to be expected.
+  - The Sales Agent has agreements in place with the Fulfilment Agent for delivery of products.
+  - A LML has been completed by the LMC, and students _may_ have selected specific material (this can also happen later).
+  - Updates and changes are to be expected at any time.
 
 ## Basic Flow of Events
 

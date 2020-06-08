@@ -8,4 +8,5 @@ A service that provides Identity information about both students and teachers to
 
 ## Use Cases Related
 
-TODO: Link to use cases
+- [ OA.4.0 User accesses delivered products](../use-cases/oa.4.0-user-accesses-delivered-products.md)
+- [OA.5.0 Buyer purchases additional products during school year](../use-cases/oa.5.0-buyer-purchases-additional-products.md)

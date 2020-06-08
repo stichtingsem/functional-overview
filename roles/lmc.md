@@ -16,3 +16,6 @@ An individual responsible for collating the needs of the teachers across departm
   - [Identity Provider](../services/identity-provider.md)
 
 ## Use Cases Related
+
+- [OA.1.0 LMC determines LML within school](../use-cases/oa.1.0-lmc-determines-lml.md)
+- [OA.2.0 LMC provides LML to Sales Agent](./use-cases/oa.2.0-lmc-lml-to-sales-agent.md)

@@ -15,3 +15,6 @@ An individual, or member of an organisation, who is a user of a service provided
   - [Identity Provider](../services/identity-provider.md)
 
 ## Use Cases Related
+
+- [ OA.4.0 User accesses delivered products](../use-cases/oa.4.0-user-accesses-delivered-products.md)
+- [OA.5.0 Buyer purchases additional products during school year](../use-cases/oa.5.0-buyer-purchases-additional-products.md)

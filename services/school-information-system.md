@@ -9,6 +9,5 @@ A service that allows an [Administrator](../roles/administrator.md) to manage th
 
 ## Use Cases Related
 
- - [S.1.0 Learning Application establishes relationship with Sales Agent](../use-cases/s.1.0-learning-application-sales-agent.md)
- - [S.2.0 Administrator establishes relationship between SIS, LMS and Marketplace](../use-cases/s.2.0-administrator-establishes-relationship.md)
- - [S.3.0 Administrator connects Learning Application, SIS and LMS](../use-cases/s.3.0-administrator-connects.md)
+- [S.2.0 Administrator establishes relationship between SIS, LMS and Marketplace](../use-cases/s.2.0-sims-lms-marketplace-setup.md)
+- [S.3.0 Administrator connects purchased Learning Application, SIS and LMS](../use-cases/s.3.0-sims-lms-learning-application-setup.md)

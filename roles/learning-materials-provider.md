@@ -14,3 +14,5 @@ An individual or organisation who provides learning materials for use both insid
   - [Content Provider](../services/content-provider.md)
 
 ## Use Cases Related
+
+  - [S.1.0 Learning Application establishes relationship with Sales Agent](../use-cases/s.1.0-learning-application-sales-agent.md)

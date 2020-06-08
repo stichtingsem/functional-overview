@@ -14,3 +14,6 @@ TODO:  This was the blend of a SIS and LMS in the definition used in these docum
   - [Identity Provider](../services/identity-provider.md)
 
 ## Use Cases Related
+
+- [S.2.0 Administrator establishes relationship between SIS, LMS and Marketplace](../use-cases/s.2.0-sims-lms-marketplace-setup.md)
+- [S.3.0 Administrator connects purchased Learning Application, SIS and LMS](../use-cases/s.3.0-sims-lms-learning-application-setup.md)

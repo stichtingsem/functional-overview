@@ -17,3 +17,6 @@ An individual, or representative of an organisation who they are purchasing on b
   - [Content Provider](../services/content-provider.md)
 
 ## Use Cases Related
+
+- [OA.2.0 LMC provides LML to Sales Agent](../user-cases/oa.2.0-lmc-lml-to-sales-agent.md)
+- [OA.5.0 Buyer purchases additional products during school year](../user-cases/oa.5.0-buyer-purchases-additional-products.md)

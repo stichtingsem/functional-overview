@@ -17,3 +17,5 @@ An organisation that takes responsibility for the fulfilment of Learning Materia
   - [Content Provider](../services/content-provider.md)
 
 ## Use Cases Related
+
+ - [OA.3.0 Sales Agent delivers purchased products](../user-cases/oa.3.0-sales-agent-delivers-products.md)

@@ -36,7 +36,7 @@ The working practices of this group will follow typical processes of technology 
 - To make changes, please take a local copy of the files, make the changes, and submit them back as a [pull request](https://lab.github.com/githubtraining/reviewing-pull-requests).  This ensures that discussion can occur in the open on any change before it is agreed, and we maintain a clear and transparent history once the process begins.
 - You can make small changes using the web editor, but you still need to submit your changes via a pull request.
 - Pull requests will be reviewed by an agreed group of reviewers for each stream (TBD).
-- If you would just like to start a discussion, please create an [./issues](issue) in this repository.
+- If you would just like to start a discussion, please create an [issue](https://github.com/stichtingsem/functional-overview/issues) in this repository.
 
 ## Working with Markdown & Github
 

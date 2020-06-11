@@ -17,4 +17,3 @@ Description of a smaller step within a process to allow for functional and techn
   - [OA.3.0 Sales Agent delivers purchased products](./oa.3.0-sales-agent-delivers-products.md)
   - [ OA.4.0 User accesses delivered products](./oa.4.0-user-accesses-delivered-products.md)
   - [OA.5.0 Buyer purchases additional products during school year](./oa.5.0-buyer-purchases-additional-products.md)
-d

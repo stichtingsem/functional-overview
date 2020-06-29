@@ -1,6 +1,6 @@
 # Learning Application
 
-A service that allows for the delivery of a specific learning activity in a digital environment and subject.  This service is typically accessed via a [Learning Management system](../learning-management-system.md) but can also be accessed directly.
+A service that allows for the delivery of a specific learning activity in a digital environment and subject.  This service is typically accessed via a [Learning Management system](../learning-management-system.md) but can also be accessed directly.  This is a small change.
 
 ## Roles Related
 

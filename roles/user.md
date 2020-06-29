@@ -2,6 +2,8 @@
 
 An individual, or member of an organisation, who is a user of a service provided by participants in the eco-system, this may or may not be connected to a purchase having occurred previously (either pre or post pay).
 
+Hello world.
+
 ## Example Types
 
   - Student

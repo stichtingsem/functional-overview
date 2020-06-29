@@ -2,6 +2,8 @@
 
 An individual responsible for collating the needs of the teachers across departments in a school, and creating the list of material (mandatory and optional) that is then ordered for the school for a given school year.
 
+Hello
+
 ## Example Types
 
   - Leermiddelen coordinator (Learning Materials Coordinator)

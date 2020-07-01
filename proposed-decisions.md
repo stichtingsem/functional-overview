@@ -103,7 +103,8 @@ First Time Right will **not** be a principle, but there are (additional) require
 ### Out of scope (for now):
 - Setup & Support
     - Most important next step in the SEM pilot
-    - More decentralized = more risk > How to reduce risk?
+    - More decentralization asks for higher maturity level regarding to maintenance and fixation of stem data and identity 
+      - How to guard data quality?
 - Communication 
 - School processes / administration (SIS, ELO, IDP)
     - Not enrolled students (0e Jaars)

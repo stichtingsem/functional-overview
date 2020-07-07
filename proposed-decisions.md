@@ -13,7 +13,7 @@ Entitlements will ensure access and guarantee valid and transparent transactions
 1. Entitlement will be established on the highest possible level
   - Secondary Education: School level
   - Vocational education: User level
-2. Entitlements should be established at front and can be realized (near) real time to ensure access for users
+2. Entitlements should be established upfront and can be realized (near) real time to ensure access for users
 3. Data for entitlement
   - Secondary Education
      - Required 

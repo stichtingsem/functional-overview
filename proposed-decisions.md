@@ -13,13 +13,16 @@ Entitlements will ensure access and guarantee valid and transparent transactions
 1. Entitlement will be established on the highest possible level
   - Secondary Education: School level
   - Vocational education: User level
-2. Data for entitlement
+2. Entitlements should be established upfront and can be realized (near) real time to ensure access for users
+3. Data for entitlement
   - Secondary Education
      - Required 
         - Sales Agent
         - School
         - Product (EAN)
         - Quantity
+          - Quantity is conditional for balancing administrations within in the Ecosystem
+        - Validity Period
      - Optional
         - Start date
   - Vocational Education
@@ -27,9 +30,10 @@ Entitlements will ensure access and guarantee valid and transparent transactions
         - Sales Agent
         - User
         - Product
+        - Validity Period
      - Optional
         - Start date
-3. Explanation
+4. Explanation
   - Secondary Education: Entitlement is comparable with specification on organisation level
   - Vocational Education: Entitlement is comparable with specification on user level
 
@@ -38,15 +42,15 @@ Entitlement will be **sufficient** to ensure valid and transparent transactions
 ## Blended learning as base design criteria
 [Related Issue 11](https://github.com/stichtingsem/functional-overview/issues/11)
 
-Blended learning (combi's) is **not** the base design criteria, but asks for additional requirements to partners in the ecosystem
-
-- Flexibility in delivery
+- Blended learning (Combi's/LiFo) is just like (full) digital and folio products in scope of this pilot and therefore are part of the (base) design criteria
+- Blended learning asks for additional requirements to partners in the ecosystem:
+  - Flexibility in delivery
     - Digital components are (near) real time accessible
-    - Shortage of folio components can;t block the access to digital components
-- Blended learning materials (combi’s/LiFo) remain one product number (EAN)
-- Entitlements (digital) and purchase orders (folio) need to be synced periodic
-- Entitlement ensures access for users
-- Entitlement guarantees transactions for partners
+    - Shortage of folio components can't block the access to digital components
+  - Blended learning materials (combi’s/LiFo) remain one product number (EAN)
+  - Entitlements (digital) and purchase orders (folio) need to be synced periodic
+  - Entitlement ensures access for users
+  - Entitlement guarantees transactions for partners
 
 ## Revenue recognition
 [Related issue 12](https://github.com/stichtingsem/functional-overview/issues/12)

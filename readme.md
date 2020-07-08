@@ -28,6 +28,12 @@ The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (
  [Entities](/entities) |  Overview of data entities exchanged as part of the use cases.
 [Glossary](glossary.md) |  Definition of key terms.
 
+## Functional track working documentation
+
+[Document with assumptions, scenarios and scripts](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+[Wireframe scenario 1](https://xd.adobe.com/view/b968ebdc-44b2-4058-ac3c-100da4ca0c66-ec3b/)
+[Wireframe scenario 2](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+
 ## Process for making changes
 
 The working practices of this group will follow typical processes of technology standard groups and open source projects.

@@ -131,3 +131,7 @@ Update contains contains information about order confirmations, forecasts and av
 [Related Issue](https://github.com/stichtingsem/functional-overview/issues/20)
 
 Usage information blended learning (combi's, LiFo) will be shared to the market place
+
+## LML
+
+LML is out of scope for the pilot, but we can discuss the role of the LML in the ecosystem

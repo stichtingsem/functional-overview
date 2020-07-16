@@ -30,9 +30,11 @@ The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (
 
 ## Functional track working documentation
 
-[Document with assumptions, scenarios and scripts](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
-[Wireframe scenario 1](https://xd.adobe.com/view/b968ebdc-44b2-4058-ac3c-100da4ca0c66-ec3b/)
-[Wireframe scenario 2](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+- [Document with assumptions, scenarios and scripts](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+- [Wireframe scenario 1](https://xd.adobe.com/view/b968ebdc-44b2-4058-ac3c-100da4ca0c66-ec3b/)
+- [Wireframe scenario 2](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+- [List of user issues for survey](https://docs.google.com/spreadsheets/d/1tzkGO8-g5i4NEa_VzCS9KSnUBlt8qaq-65KyhsHWVxs/edit#gid=0/)
+- [Concept user survey] (https://docs.google.com/forms/d/1dwNSMkx--Q2gupjx33wLZ5PT5aHsBh6hsxPEvw6kIYo/edit/)
 
 ## Process for making changes
 

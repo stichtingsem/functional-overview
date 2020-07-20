@@ -3,7 +3,13 @@
 ## Service credits still necessary in ecosystem?
 [Related Issue 9](https://github.com/stichtingsem/functional-overview/issues/9)
 
-Service credits will **not** be necessary in the new ecosystem. The functionality of service credits will be replaced by entitlements. If there is **no** entitlement or the quantity of the entitlement is **not** sufficient there will be **no** access for the user.
+Service credits will **not** be necessary in the new ecosystem. The functionality of service credits will be replaced by entitlements.
+
+- Users should always have access without limitations
+  - School (customer/buyer) can impose limitations to access
+    - School (LMC) is in the lead
+  - LA determines available business models for products
+    - Available business models need to be shared in product catalog
 
 ## Is entitlement sufficient?
 [Related Issue 10](https://github.com/stichtingsem/functional-overview/issues/10)
@@ -66,6 +72,11 @@ Revenue recognition is influenced by tax legislation, competitive propositions a
 - User: ECK-ID
 - School: Digi Delivery ID (RIO will be evaluated on applicability)
 
+**Input Halfway Meeting**
+- Good to start with these identifiers, but don’t limit the ecosystem to these identifiers
+- Create technical flexibility in the use of multiple/various identifiers
+
+
 ## Bring SIS (LAS) and LML in sync
 [Related issue 15](https://github.com/stichtingsem/functional-overview/issues/15)
 
@@ -96,6 +107,8 @@ First Time Right will **not** be a principle, but there are (additional) require
 
 ### In Scope:
 - VO (secondary) and MBO (vocational)
+  - MBO is in scope for the ecosystem
+  - MBO is out of scope for the pilot
 - Full Digital (100% digital)
 - Blended (combi’s, LiFo)
 - Folio (incl. paper vouchers)
@@ -116,6 +129,8 @@ First Time Right will **not** be a principle, but there are (additional) require
     - Additional services for teachers > prepare access locations for teacher licenses
 - Kennisnet ARP administration
 - Progress & Results (Part of Use Case 4.0)
+  - In scope for the Ecosystem
+  - Out of scope for the pilot
 - Data covenant 
 - Non happy flows
 - Returns
@@ -130,7 +145,7 @@ Update contains contains information about order confirmations, forecasts and av
 ## Usage Information blended learning
 [Related Issue](https://github.com/stichtingsem/functional-overview/issues/20)
 
-Usage information blended learning (combi's, LiFo) will be shared to the market place
+Usage information blended learning (combi's, LiFo) will be shared to the market place. There is no difference between full digital and digital component of the blended learning material
 
 ## LML
 

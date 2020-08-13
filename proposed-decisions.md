@@ -24,6 +24,7 @@ Entitlements will ensure access and guarantee valid and transparent transactions
   - Secondary Education: School level
   - Vocational education: User level
 2. Entitlements **can** be established upfront and can be realized (near) real time to ensure access for users
+  - When there is or will be a transaction an entitlement has to be established
 3. Data for entitlement
   - Secondary Education
      - Required 

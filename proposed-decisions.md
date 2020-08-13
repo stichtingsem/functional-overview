@@ -19,7 +19,7 @@ Entitlements will ensure access and guarantee valid and transparent transactions
 1. Entitlement will be established on the highest possible level
   - Secondary Education: School level
   - Vocational education: User level
-2. Entitlements should be established upfront and can be realized (near) real time to ensure access for users
+2. Entitlements can be established upfront and can be realized (near) real time to ensure access for users
 3. Data for entitlement
   - Secondary Education
      - Required 
@@ -55,8 +55,8 @@ Entitlement will be **sufficient** to ensure valid and transparent transactions
     - Shortage of folio components can't block the access to digital components
   - Blended learning materials (combi’s/LiFo) remain one product number (EAN)
   - Entitlements (digital) and purchase orders (folio) need to be synced periodic
-  - Entitlement ensures access for users
-  - Entitlement guarantees transactions for partners
+  - Entitlement ensure access for users (depends on business model LA)
+  - Entitlement ensures transparent and traceable transactions for partners
 
 ## Revenue recognition
 [Related issue 12](https://github.com/stichtingsem/functional-overview/issues/12)
@@ -70,7 +70,7 @@ Revenue recognition is influenced by tax legislation, competitive propositions a
 
 - Product: EAN
 - User: ECK-ID
-- School: Digi Delivery ID (RIO will be evaluated on applicability)
+- School: Digi Delivery ID > RIO will be evaluated on applicability)
 
 **Input Halfway Meeting**
 - Good to start with these identifiers, but don’t limit the ecosystem to these identifiers

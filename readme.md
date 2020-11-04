@@ -28,13 +28,21 @@ The scope of the pilot in June 2020 is focusing on the use cases OA.3 and OA.4 (
  [Entities](/entities) |  Overview of data entities exchanged as part of the use cases.
 [Glossary](glossary.md) |  Definition of key terms.
 
-## Functional track working documentation
+## Functional track documentation
 
-- [Document with assumptions, scenarios and scripts](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+The functional track consisted of a representatives from distributors (TLN, Iddink), publishers (ThiemeMeulenhoff, Noordhoff) and SIS/LMS providers (Magister, Topicus). 
+
+To understand user problems. For this we used a document describing assumptions, scenarios and scripts to be tested with users.
+- [Document with assumptions, scenarios and scripts](https://docs.google.com/document/d/1INANV13mkSVTCpcQbIa_IYDOLMzcUa9tBX7xkkapujA/edit?usp=sharing)
+
+In the first half of July 2020 we conducted five qualitative interviews with users, both Teachers and LMC's. We created wireframes for these scenarios. 
 - [Wireframe scenario 1](https://xd.adobe.com/view/b968ebdc-44b2-4058-ac3c-100da4ca0c66-ec3b/)
 - [Wireframe scenario 2](https://xd.adobe.com/view/dee50525-5c36-4f5c-a6d1-a0dace226409-8bb6/)
+Because we were testing scenarios that were pre-competitive, the solutions shared in these interviews proved to be too abstract and so led to confused users. We did get a better understanding of the issues that users were experiencing and decided to pivot our approach to a survey.
+
+To come to a survey, we started out discussing all observed user issues in both interviews and input from SEM-participants. From the long-list we started clustering double entries and ranked the issues on importance and relevance. We converted the issues to problem statements. Next, we added broad solutions derived from the SEM ecosystem design. In the compiled user survey, users are asked to identify with specific roles (teachers, LMS, etc) to only present relevant questions to users. Further, users are asked whether they agree a solution resolves the stated issue. The survey has been approved by the Steering Committee and SEM Board.    
 - [List of user issues for survey](https://docs.google.com/spreadsheets/d/1tzkGO8-g5i4NEa_VzCS9KSnUBlt8qaq-65KyhsHWVxs/edit#gid=0/)
-- [Concept user survey] (https://docs.google.com/forms/d/1dwNSMkx--Q2gupjx33wLZ5PT5aHsBh6hsxPEvw6kIYo/edit/)
+- [User survey] (https://forms.gle/Gq31vWQWCQv8dHxKA)
 
 ## Process for making changes
 

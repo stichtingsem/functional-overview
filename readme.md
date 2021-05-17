@@ -4,7 +4,7 @@ This repository will be the home for all of the functional defintions and use ca
 
 The initial document that outlined the approach can still be found here:
 
-[SEM - Moving from a Chain to an Ecosystem](https://github.com/stichtingsem/functional-overview/raw/master/documents/sBDL%20-%20Moving%20from%20a%20Chain%20to%20an%20Ecosystem%20-%20v2.docx)
+[SEM - Moving from a Chain to an Ecosystem](https://github.com/stichtingsem/functional-overview/blob/master/documents/sBDL%20-%20Moving%20from%20a%20Chain%20to%20an%20Ecosystem%20-%20v4%20(without%20comments).docx)
 
 ## Rationale
 
